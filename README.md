@@ -1,9 +1,12 @@
-#Samah M. Balkhair
-#Welcome to My GIT HUB profile
+<img src="images/forecast_plot.png" width="100%" align="center"/></a>
+
+## Samah M. Balkhair
+## Welcome to My GIT HUB profile
 
 - 👋 Hi there
-- 🌱 I’m currently learning Data Science in MISK HUB
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data Science in MISK HUB wich include
+- ✨ I'm interested in Data Science, Designing, self awareness and business development
+- 💞️ I'm enjoy working on healthcare and/or community awareness Data 
 - 📫 contact me thtoug my email: Samah.Balkhair@gmail.com
 
 <!---
