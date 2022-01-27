@@ -1,9 +1,7 @@
-<img src="images/forecast_plot.png" width="100%" align="center"/></a>
-
-## Samah M. Balkhair
+<img src="https://makalcloud.com/pro_u_s/4d77ee50f476c35d273e8261a9436acc/94siaJAB6BSk.jpg" width="20%" align="center"/></a> 
+# 👋 HI there, This is Samah M. Balkhair
 ## Welcome to My GIT HUB profile
 
-- 👋 Hi there
 - 🌱 I’m currently learning Data Science in MISK HUB wich include
 - ✨ I'm interested in Data Science, Designing, self awareness and business development
 - 💞️ I'm enjoy working on healthcare and/or community awareness Data 
